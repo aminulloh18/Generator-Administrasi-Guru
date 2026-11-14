@@ -1,0 +1,491 @@
+{
+  "paket": "A",
+  "mataPelajaran": "Matematika",
+  "faseKelas": "E / X",
+  "kurikulum": "Kurikulum Merdeka",
+  "notasiMatematika": "$...$ = equation Word (lihat omml.js); \\\\frac{a}{b}, \\\\sqrt[n]{x}, \\\\plog{2}x, ^{ }, _{ }",
+  "catatan": "Kunci no.19 sudah dikoreksi ke C; no.8 soal asli bermasalah (tidak ada opsi benar) dan sengaja dibiarkan seperti aslinya.",
+  "butir": [
+    {
+      "no": 1,
+      "materi": "Eksponen (Bilangan Berpangkat)",
+      "elemen": "Elemen Bilangan",
+      "cp": "Pada akhir Fase E, peserta didik dapat menggeneralisasi sifat-sifat operasi bilangan berpangkat (eksponen) dan logaritma.",
+      "tp": "Peserta didik mampu menggeneralisasi sifat-sifat operasi bilangan berpangkat (bulat dan rasional) serta menerapkannya untuk menyelesaikan masalah.",
+      "indikator": "Disajikan perkalian dua bilangan berpangkat dengan basis sama, peserta didik dapat menentukan hasilnya dengan sifat perkalian eksponen.",
+      "level": "C2 (Memahami)",
+      "bentuk": "Pilihan Ganda",
+      "stem": "Hasil dari operasi perkalian eksponen $2^{3}×2^{4}$ adalah ....",
+      "opsi": [
+        "$2^{7}$",
+        "$2^{12}$",
+        "$2^{1}$",
+        "$4^{7}$",
+        "$4^{12}$"
+      ],
+      "kunci": "A"
+    },
+    {
+      "no": 2,
+      "materi": "Eksponen (Bilangan Berpangkat)",
+      "elemen": "Elemen Bilangan",
+      "cp": "Pada akhir Fase E, peserta didik dapat menggeneralisasi sifat-sifat operasi bilangan berpangkat (eksponen) dan logaritma.",
+      "tp": "Peserta didik mampu menggeneralisasi sifat-sifat operasi bilangan berpangkat (bulat dan rasional) serta menerapkannya untuk menyelesaikan masalah.",
+      "indikator": "Disajikan bentuk pecahan berpangkat negatif yang dijumlahkan dengan bilangan berpangkat, peserta didik dapat menghitung nilainya dengan tepat.",
+      "level": "C3 (Menerapkan)",
+      "bentuk": "Pilihan Ganda",
+      "stem": "Hasil perhitungan dari $(\\frac{1}{3})^{-2}+2^{3}$ adalah ....",
+      "opsi": [
+        "$11$",
+        "$14$",
+        "$17$",
+        "$\\frac{1}{17}$",
+        "$\\frac{1}{11}$"
+      ],
+      "kunci": "C"
+    },
+    {
+      "no": 3,
+      "materi": "Eksponen (Bilangan Berpangkat)",
+      "elemen": "Elemen Bilangan",
+      "cp": "Pada akhir Fase E, peserta didik dapat menggeneralisasi sifat-sifat operasi bilangan berpangkat (eksponen) dan logaritma.",
+      "tp": "Peserta didik mampu menggeneralisasi sifat-sifat operasi bilangan berpangkat (bulat dan rasional) serta menerapkannya untuk menyelesaikan masalah.",
+      "indikator": "Disajikan tiga bilangan berpangkat dengan basis dan pangkat berbeda, peserta didik dapat membandingkan nilainya dan mengurutkannya dari terkecil ke terbesar.",
+      "level": "C4 (Menganalisis)",
+      "bentuk": "Pilihan Ganda",
+      "stem": "Diberikan tiga buah bilangan eksponen yaitu $A=2^{60}$, $B=3^{40}$, dan $C=5^{20}$. Setelah melakukan evaluasi perbandingan nilai, urutan yang benar dari bilangan terkecil ke terbesar adalah ....",
+      "opsi": [
+        "$A<B<C$",
+        "$C<A<B$",
+        "$B<A<C$",
+        "$C<B<A$",
+        "$A<C<B$"
+      ],
+      "kunci": "B"
+    },
+    {
+      "no": 4,
+      "materi": "Eksponen (Bilangan Berpangkat)",
+      "elemen": "Elemen Bilangan",
+      "cp": "Pada akhir Fase E, peserta didik dapat menggeneralisasi sifat-sifat operasi bilangan berpangkat (eksponen) dan logaritma.",
+      "tp": "Peserta didik mampu menggeneralisasi sifat-sifat operasi bilangan berpangkat (bulat dan rasional) serta menerapkannya untuk menyelesaikan masalah.",
+      "indikator": "Disajikan bentuk operasi bilangan berpangkat pecahan, pangkat negatif, dan akar, peserta didik dapat menyederhanakannya.",
+      "level": "C3 (Menerapkan)",
+      "bentuk": "Pilihan Ganda",
+      "stem": "Bentuk sederhana dari $(32)^{\\frac{3}{5}}·(\\frac{1}{2})^{-2}·\\sqrt[3]{8^{-2}}$ adalah ....",
+      "opsi": [
+        "$16$",
+        "$8$",
+        "$4$",
+        "$2$",
+        "$1$"
+      ],
+      "kunci": "B"
+    },
+    {
+      "no": 5,
+      "materi": "Eksponen (Bilangan Berpangkat)",
+      "elemen": "Elemen Bilangan",
+      "cp": "Pada akhir Fase E, peserta didik dapat menggeneralisasi sifat-sifat operasi bilangan berpangkat (eksponen) dan logaritma.",
+      "tp": "Peserta didik mampu menggeneralisasi sifat-sifat operasi bilangan berpangkat (bulat dan rasional) serta menerapkannya untuk menyelesaikan masalah.",
+      "indikator": "Disajikan masalah kontekstual tentang luas prosesor dan jumlah transistor, peserta didik dapat menentukan luas tiap transistor dalam bentuk baku.",
+      "level": "C3 (Menerapkan)",
+      "bentuk": "Pilihan Ganda",
+      "stem": "Sebuah prosesor yang berbentuk persegi dengan luas $5~\\text{cm}^{2}$ ditanam 40 juta transistor. Luas untuk setiap transistor adalah ....",
+      "opsi": [
+        "$1{,}25×10^{-7}~\\text{mm}^{2}$",
+        "$1{,}25×10^{-6}~\\text{mm}^{2}$",
+        "$1{,}25×10^{-5}~\\text{mm}^{2}$",
+        "$1{,}25×10^{-4}~\\text{mm}^{2}$",
+        "$1{,}25×10^{-3}~\\text{mm}^{2}$"
+      ],
+      "kunci": "C"
+    },
+    {
+      "no": 6,
+      "materi": "Bentuk Akar",
+      "elemen": "Elemen Bilangan",
+      "cp": "Pada akhir Fase E, peserta didik dapat menggeneralisasi sifat-sifat operasi bilangan berpangkat (eksponen) dan logaritma.",
+      "tp": "Peserta didik mampu melakukan operasi aljabar pada bentuk akar, termasuk merasionalkan penyebut, serta menerapkannya dalam masalah kontekstual.",
+      "indikator": "Disajikan penjumlahan dan pengurangan beberapa bentuk akar, peserta didik dapat menyederhanakannya.",
+      "level": "C3 (Menerapkan)",
+      "bentuk": "Pilihan Ganda",
+      "stem": "Bentuk sederhana dari $\\sqrt{98}+\\sqrt{18}-\\sqrt{50}+\\sqrt{48}$ adalah ....",
+      "opsi": [
+        "$-4\\sqrt{3}+5\\sqrt{2}$",
+        "$4\\sqrt{3}-5\\sqrt{2}$",
+        "$4\\sqrt{3}+5\\sqrt{2}$",
+        "$5\\sqrt{2}-4\\sqrt{3}$",
+        "$5\\sqrt{2}+5\\sqrt{3}$"
+      ],
+      "kunci": "C"
+    },
+    {
+      "no": 7,
+      "materi": "Bentuk Akar",
+      "elemen": "Elemen Bilangan",
+      "cp": "Pada akhir Fase E, peserta didik dapat menggeneralisasi sifat-sifat operasi bilangan berpangkat (eksponen) dan logaritma.",
+      "tp": "Peserta didik mampu melakukan operasi aljabar pada bentuk akar, termasuk merasionalkan penyebut, serta menerapkannya dalam masalah kontekstual.",
+      "indikator": "Disajikan perkalian dua bentuk akar sekawan, peserta didik dapat menentukan hasil sederhananya.",
+      "level": "C3 (Menerapkan)",
+      "bentuk": "Pilihan Ganda",
+      "stem": "Bentuk sederhana dari $(3\\sqrt{5}+5\\sqrt{3})(3\\sqrt{5}-5\\sqrt{3})$ adalah ....",
+      "opsi": [
+        "$-30$",
+        "$-15$",
+        "$15\\sqrt{3}$",
+        "$15\\sqrt{5}$",
+        "$30\\sqrt{2}$"
+      ],
+      "kunci": "A"
+    },
+    {
+      "no": 8,
+      "materi": "Bentuk Akar",
+      "elemen": "Elemen Bilangan",
+      "cp": "Pada akhir Fase E, peserta didik dapat menggeneralisasi sifat-sifat operasi bilangan berpangkat (eksponen) dan logaritma.",
+      "tp": "Peserta didik mampu melakukan operasi aljabar pada bentuk akar, termasuk merasionalkan penyebut, serta menerapkannya dalam masalah kontekstual.",
+      "indikator": "Disajikan pecahan dengan penyebut bentuk akar, peserta didik dapat merasionalkan penyebut dan menyederhanakannya.",
+      "level": "C3 (Menerapkan)",
+      "bentuk": "Pilihan Ganda",
+      "stem": "Bentuk sederhana dari $\\frac{\\sqrt{20}-\\sqrt{2}}{2\\sqrt{18}}$ adalah ....",
+      "opsi": [
+        "$\\frac{2}{3}\\sqrt{6}$",
+        "$\\frac{3}{2}$",
+        "$\\frac{1}{2}\\sqrt{6}$",
+        "$\\frac{1}{2}$",
+        "$\\frac{1}{6}\\sqrt{6}$"
+      ],
+      "kunci": "E"
+    },
+    {
+      "no": 9,
+      "materi": "Bentuk Akar",
+      "elemen": "Elemen Bilangan",
+      "cp": "Pada akhir Fase E, peserta didik dapat menggeneralisasi sifat-sifat operasi bilangan berpangkat (eksponen) dan logaritma.",
+      "tp": "Peserta didik mampu melakukan operasi aljabar pada bentuk akar, termasuk merasionalkan penyebut, serta menerapkannya dalam masalah kontekstual.",
+      "indikator": "Disajikan luas dan lebar persegi panjang dalam bentuk akar, peserta didik dapat menentukan keliling persegi panjang tersebut.",
+      "level": "C4 (Menganalisis)",
+      "bentuk": "Pilihan Ganda",
+      "stem": "Diketahui luas suatu persegi panjang $(16+10\\sqrt{2})~\\text{cm}^{2}$ dan lebarnya $(3+\\sqrt{2})~\\text{cm}$. Keliling persegi panjang tersebut adalah ....",
+      "opsi": [
+        "$(10+4\\sqrt{2})~\\text{cm}$",
+        "$(12+4\\sqrt{2})~\\text{cm}$",
+        "$(12+6\\sqrt{2})~\\text{cm}$",
+        "$(14+4\\sqrt{2})~\\text{cm}$",
+        "$(14+6\\sqrt{2})~\\text{cm}$"
+      ],
+      "kunci": "E"
+    },
+    {
+      "no": 10,
+      "materi": "Logaritma",
+      "elemen": "Elemen Bilangan",
+      "cp": "Pada akhir Fase E, peserta didik dapat menggeneralisasi sifat-sifat operasi bilangan berpangkat (eksponen) dan logaritma.",
+      "tp": "Peserta didik mampu menggunakan sifat-sifat logaritma untuk menyederhanakan dan menentukan nilai bentuk logaritma serta menyelesaikan persamaan logaritma sederhana.",
+      "indikator": "Diberikan nilai log 2 dan log 3, peserta didik dapat menentukan nilai log suatu bilangan dengan sifat-sifat logaritma.",
+      "level": "C3 (Menerapkan)",
+      "bentuk": "Pilihan Ganda",
+      "stem": "Jika $\\log 3=0{,}4771$ dan $\\log 2=0{,}3010$; nilai $\\log 75$ adalah ....",
+      "opsi": [
+        "0,7781",
+        "0,9209",
+        "1,0791",
+        "1,2552",
+        "1,8751"
+      ],
+      "kunci": "E"
+    },
+    {
+      "no": 11,
+      "materi": "Logaritma",
+      "elemen": "Elemen Bilangan",
+      "cp": "Pada akhir Fase E, peserta didik dapat menggeneralisasi sifat-sifat operasi bilangan berpangkat (eksponen) dan logaritma.",
+      "tp": "Peserta didik mampu menggunakan sifat-sifat logaritma untuk menyederhanakan dan menentukan nilai bentuk logaritma serta menyelesaikan persamaan logaritma sederhana.",
+      "indikator": "Diberikan nilai dua logaritma berbasis 2 dalam bentuk variabel, peserta didik dapat menyatakan logaritma bilangan lain dalam variabel tersebut.",
+      "level": "C3 (Menerapkan)",
+      "bentuk": "Pilihan Ganda",
+      "stem": "Diketahui $\\plog{2}3=p$ dan $\\plog{2}5=q$. Nilai dari $\\plog{2}45$ adalah ....",
+      "opsi": [
+        "$p^{2}+q$",
+        "$2p+q$",
+        "$2(p+q)$",
+        "$p+2q$",
+        "$p+q$"
+      ],
+      "kunci": "B"
+    },
+    {
+      "no": 12,
+      "materi": "Persamaan Eksponen",
+      "elemen": "Elemen Aljabar dan Fungsi",
+      "cp": "Pada akhir Fase E, peserta didik dapat menyelesaikan masalah yang berkaitan dengan sistem persamaan linear tiga variabel, persamaan dan fungsi kuadrat (termasuk akar imajiner), dan persamaan eksponensial (berbasis sama).",
+      "tp": "Peserta didik mampu menyelesaikan persamaan eksponensial berbasis sama.",
+      "indikator": "Disajikan persamaan eksponen dengan basis yang dapat disamakan, peserta didik dapat menentukan nilai variabel yang memenuhi.",
+      "level": "C3 (Menerapkan)",
+      "bentuk": "Pilihan Ganda",
+      "stem": "Nilai $x$ yang memenuhi persamaan $(\\frac{1}{25})^{x-2}=5^{x-1}$ adalah ....",
+      "opsi": [
+        "$\\frac{5}{3}$",
+        "$1$",
+        "$0$",
+        "$-1$",
+        "$-\\frac{5}{3}$"
+      ],
+      "kunci": "A"
+    },
+    {
+      "no": 13,
+      "materi": "Logaritma",
+      "elemen": "Elemen Bilangan",
+      "cp": "Pada akhir Fase E, peserta didik dapat menggeneralisasi sifat-sifat operasi bilangan berpangkat (eksponen) dan logaritma.",
+      "tp": "Peserta didik mampu menggunakan sifat-sifat logaritma untuk menyederhanakan dan menentukan nilai bentuk logaritma serta menyelesaikan persamaan logaritma sederhana.",
+      "indikator": "Disajikan persamaan logaritma berbasis 2, peserta didik dapat menentukan himpunan penyelesaiannya dengan memperhatikan syarat numerus.",
+      "level": "C4 (Menganalisis)",
+      "bentuk": "Pilihan Ganda",
+      "stem": "Himpunan penyelesaian dari $\\plog{2}x+\\plog{2}(x+2)=3$ adalah ....",
+      "opsi": [
+        "$\\{-4,2\\}$",
+        "$\\{-4\\}$",
+        "$\\{2\\}$",
+        "$\\{2\\frac{1}{2}\\}$",
+        "$\\{4\\}$"
+      ],
+      "kunci": "C"
+    },
+    {
+      "no": 14,
+      "materi": "Persamaan Kuadrat",
+      "elemen": "Elemen Aljabar dan Fungsi",
+      "cp": "Pada akhir Fase E, peserta didik dapat menyelesaikan masalah yang berkaitan dengan sistem persamaan linear tiga variabel, persamaan dan fungsi kuadrat (termasuk akar imajiner), dan persamaan eksponensial (berbasis sama).",
+      "tp": "Peserta didik mampu menyelesaikan persamaan kuadrat dengan berbagai metode, menyusun persamaan kuadrat, dan menggunakan jumlah serta hasil kali akar-akarnya.",
+      "indikator": "Disajikan persamaan kuadrat, peserta didik dapat menentukan bentuk kuadrat sempurna hasil melengkapkan kuadrat.",
+      "level": "C3 (Menerapkan)",
+      "bentuk": "Pilihan Ganda",
+      "stem": "Bentuk melengkapkan kuadrat sempurna dari persamaan $x^{2}-8x+12=0$ sehingga diperoleh akar-akarnya adalah ....",
+      "opsi": [
+        "$(x-4)^{2}=12$",
+        "$(x-4)^{2}=4$",
+        "$(x-8)^{2}=4$",
+        "$(x+4)^{2}=4$",
+        "$(x-4)^{2}=16$"
+      ],
+      "kunci": "B"
+    },
+    {
+      "no": 15,
+      "materi": "Persamaan Kuadrat",
+      "elemen": "Elemen Aljabar dan Fungsi",
+      "cp": "Pada akhir Fase E, peserta didik dapat menyelesaikan masalah yang berkaitan dengan sistem persamaan linear tiga variabel, persamaan dan fungsi kuadrat (termasuk akar imajiner), dan persamaan eksponensial (berbasis sama).",
+      "tp": "Peserta didik mampu menyelesaikan persamaan kuadrat dengan berbagai metode, menyusun persamaan kuadrat, dan menggunakan jumlah serta hasil kali akar-akarnya.",
+      "indikator": "Disajikan persamaan kuadrat, peserta didik dapat menentukan akar-akarnya dengan metode pemfaktoran.",
+      "level": "C3 (Menerapkan)",
+      "bentuk": "Pilihan Ganda",
+      "stem": "Akar-akar dari persamaan kuadrat $x^{2}-5x+6=0$ dengan metode pemfaktoran adalah ....",
+      "opsi": [
+        "$x=-2$ atau $x=-3$",
+        "$x=2$ atau $x=3$",
+        "$x=1$ atau $x=6$",
+        "$x=-1$ atau $x=-6$",
+        "$x=-2$ atau $x=3$"
+      ],
+      "kunci": "B"
+    },
+    {
+      "no": 16,
+      "materi": "Persamaan Kuadrat",
+      "elemen": "Elemen Aljabar dan Fungsi",
+      "cp": "Pada akhir Fase E, peserta didik dapat menyelesaikan masalah yang berkaitan dengan sistem persamaan linear tiga variabel, persamaan dan fungsi kuadrat (termasuk akar imajiner), dan persamaan eksponensial (berbasis sama).",
+      "tp": "Peserta didik mampu menyelesaikan persamaan kuadrat dengan berbagai metode, menyusun persamaan kuadrat, dan menggunakan jumlah serta hasil kali akar-akarnya.",
+      "indikator": "Diketahui akar-akar persamaan kuadrat, peserta didik dapat menyusun persamaan kuadratnya.",
+      "level": "C3 (Menerapkan)",
+      "bentuk": "Pilihan Ganda",
+      "stem": "Persamaan kuadrat yang akar-akarnya $5$ dan $-2$ adalah ....",
+      "opsi": [
+        "$x^{2}+7x+10=0$",
+        "$x^{2}-7x+10=0$",
+        "$x^{2}+3x+10=0$",
+        "$x^{2}+3x-10=0$",
+        "$x^{2}-3x-10=0$"
+      ],
+      "kunci": "E"
+    },
+    {
+      "no": 17,
+      "materi": "Persamaan Kuadrat",
+      "elemen": "Elemen Aljabar dan Fungsi",
+      "cp": "Pada akhir Fase E, peserta didik dapat menyelesaikan masalah yang berkaitan dengan sistem persamaan linear tiga variabel, persamaan dan fungsi kuadrat (termasuk akar imajiner), dan persamaan eksponensial (berbasis sama).",
+      "tp": "Peserta didik mampu menyelesaikan persamaan kuadrat dengan berbagai metode, menyusun persamaan kuadrat, dan menggunakan jumlah serta hasil kali akar-akarnya.",
+      "indikator": "Diketahui sebuah persamaan kuadrat, peserta didik dapat menyusun persamaan kuadrat baru yang akar-akarnya berhubungan dengan akar-akar persamaan semula.",
+      "level": "C4 (Menganalisis)",
+      "bentuk": "Pilihan Ganda",
+      "stem": "Jika $x_{1}$ dan $x_{2}$ adalah akar-akar dari persamaan $x^{2}-3x+1=0$, maka persamaan kuadrat baru yang akar-akarnya $3x_{1}$ dan $3x_{2}$ adalah ....",
+      "opsi": [
+        "$x^{2}-9x+3=0$",
+        "$x^{2}-9x+9=0$",
+        "$x^{2}-3x+9=0$",
+        "$x^{2}+9x+9=0$",
+        "$3x^{2}-9x+1=0$"
+      ],
+      "kunci": "B"
+    },
+    {
+      "no": 18,
+      "materi": "Persamaan Kuadrat",
+      "elemen": "Elemen Aljabar dan Fungsi",
+      "cp": "Pada akhir Fase E, peserta didik dapat menyelesaikan masalah yang berkaitan dengan sistem persamaan linear tiga variabel, persamaan dan fungsi kuadrat (termasuk akar imajiner), dan persamaan eksponensial (berbasis sama).",
+      "tp": "Peserta didik mampu menyelesaikan persamaan kuadrat dengan berbagai metode, menyusun persamaan kuadrat, dan menggunakan jumlah serta hasil kali akar-akarnya.",
+      "indikator": "Diketahui sebuah persamaan kuadrat, peserta didik dapat menentukan jumlah kuadrat akar-akarnya menggunakan jumlah dan hasil kali akar.",
+      "level": "C3 (Menerapkan)",
+      "bentuk": "Pilihan Ganda",
+      "stem": "Jika $x_{1}$ dan $x_{2}$ adalah akar-akar dari persamaan $2x^{2}-4x+6=0$, maka nilai dari $x_{1}^{2}+x_{2}^{2}$ adalah ....",
+      "opsi": [
+        "$-2$",
+        "$2$",
+        "$4$",
+        "$-4$",
+        "$10$"
+      ],
+      "kunci": "A"
+    },
+    {
+      "no": 19,
+      "materi": "Fungsi Kuadrat",
+      "elemen": "Elemen Aljabar dan Fungsi",
+      "cp": "Pada akhir Fase E, peserta didik dapat menyelesaikan masalah yang berkaitan dengan sistem persamaan linear tiga variabel, persamaan dan fungsi kuadrat (termasuk akar imajiner), dan persamaan eksponensial (berbasis sama).",
+      "tp": "Peserta didik mampu menentukan karakteristik fungsi kuadrat dan menyusun fungsi kuadrat dari grafik.",
+      "indikator": "Disajikan grafik fungsi kuadrat dengan titik puncak dan titik potong sumbu Y, peserta didik dapat menentukan hasil kali koefisien a, b, dan c.",
+      "level": "C4 (Menganalisis)",
+      "bentuk": "Pilihan Ganda",
+      "stem": "Perhatikan grafik berikut.",
+      "gambar": "graf",
+      "stem2": "Jika grafik fungsi kuadrat pada gambar mempunyai $y=ax^{2}+bx+c$, maka hasil kali dari $a·b·c$ sama dengan ....",
+      "opsi": [
+        "$-20$",
+        "$-6$",
+        "$-3$",
+        "$3$",
+        "$20$"
+      ],
+      "kunci": "C"
+    },
+    {
+      "no": 20,
+      "materi": "Fungsi Kuadrat",
+      "elemen": "Elemen Aljabar dan Fungsi",
+      "cp": "Pada akhir Fase E, peserta didik dapat menyelesaikan masalah yang berkaitan dengan sistem persamaan linear tiga variabel, persamaan dan fungsi kuadrat (termasuk akar imajiner), dan persamaan eksponensial (berbasis sama).",
+      "tp": "Peserta didik mampu menentukan karakteristik fungsi kuadrat dan menyusun fungsi kuadrat dari grafik.",
+      "indikator": "Disajikan fungsi kuadrat dalam bentuk umum, peserta didik dapat menentukan koordinat titik balik grafiknya.",
+      "level": "C3 (Menerapkan)",
+      "bentuk": "Pilihan Ganda",
+      "stem": "Titik balik grafik parabola $f(x)=x^{2}-6x+5$ adalah ....",
+      "opsi": [
+        "$(-3,4)$",
+        "$(3,-4)$",
+        "$(3,4)$",
+        "$(3,-1)$",
+        "$(4,-4)$"
+      ],
+      "kunci": "B"
+    },
+    {
+      "no": 21,
+      "materi": "Sistem Persamaan Linear Tiga Variabel (SPLTV)",
+      "elemen": "Elemen Aljabar dan Fungsi",
+      "cp": "Pada akhir Fase E, peserta didik dapat menyelesaikan masalah yang berkaitan dengan sistem persamaan linear tiga variabel, persamaan dan fungsi kuadrat (termasuk akar imajiner), dan persamaan eksponensial (berbasis sama).",
+      "tp": "Peserta didik mampu menjelaskan konsep SPLTV, menentukan penyelesaiannya dengan berbagai metode, dan menerapkannya dalam masalah kontekstual.",
+      "indikator": "Disajikan pernyataan tentang SPLTV, peserta didik dapat menyebutkan pangkat tertinggi variabel pada SPLTV.",
+      "level": "C1 (Mengingat)",
+      "bentuk": "Pilihan Ganda",
+      "stem": "Dalam sebuah Sistem Persamaan Linear Tiga Variabel (SPLTV), pangkat tertinggi dari setiap variabel yang terlibat adalah ....",
+      "opsi": [
+        "Nol",
+        "Satu",
+        "Dua",
+        "Tiga",
+        "Setengah"
+      ],
+      "kunci": "B"
+    },
+    {
+      "no": 22,
+      "materi": "Sistem Persamaan Linear Tiga Variabel (SPLTV)",
+      "elemen": "Elemen Aljabar dan Fungsi",
+      "cp": "Pada akhir Fase E, peserta didik dapat menyelesaikan masalah yang berkaitan dengan sistem persamaan linear tiga variabel, persamaan dan fungsi kuadrat (termasuk akar imajiner), dan persamaan eksponensial (berbasis sama).",
+      "tp": "Peserta didik mampu menjelaskan konsep SPLTV, menentukan penyelesaiannya dengan berbagai metode, dan menerapkannya dalam masalah kontekstual.",
+      "indikator": "Disajikan beberapa bentuk persamaan, peserta didik dapat mengidentifikasi bentuk umum persamaan linear tiga variabel.",
+      "level": "C1 (Mengingat)",
+      "bentuk": "Pilihan Ganda",
+      "stem": "Manakah di bawah ini yang merupakan bentuk umum dari sebuah persamaan linear tiga variabel dengan variabel $x$, $y$, dan $z$?",
+      "opsi": [
+        "$ax+by+cz=d$",
+        "$ax^{2}+by+cz=d$",
+        "$ax+by=c$",
+        "$ax^{2}+by^{2}+cz^{2}=d$",
+        "$\\frac{a}{x}+\\frac{b}{y}+\\frac{c}{z}=d$"
+      ],
+      "kunci": "A"
+    },
+    {
+      "no": 23,
+      "materi": "Sistem Persamaan Linear Tiga Variabel (SPLTV)",
+      "elemen": "Elemen Aljabar dan Fungsi",
+      "cp": "Pada akhir Fase E, peserta didik dapat menyelesaikan masalah yang berkaitan dengan sistem persamaan linear tiga variabel, persamaan dan fungsi kuadrat (termasuk akar imajiner), dan persamaan eksponensial (berbasis sama).",
+      "tp": "Peserta didik mampu menjelaskan konsep SPLTV, menentukan penyelesaiannya dengan berbagai metode, dan menerapkannya dalam masalah kontekstual.",
+      "indikator": "Disajikan deskripsi langkah penyelesaian SPLTV, peserta didik dapat menyebutkan nama metode eliminasi.",
+      "level": "C1 (Mengingat)",
+      "bentuk": "Pilihan Ganda",
+      "stem": "Metode penyelesaian SPLTV yang dilakukan dengan cara menghilangkan salah satu variabel dari dua/lebih persamaan disebut metode ....",
+      "opsi": [
+        "Metode Substitusi",
+        "Metode Eliminasi",
+        "Metode Campuran",
+        "Metode Determinan",
+        "Metode Cramer"
+      ],
+      "kunci": "B"
+    },
+    {
+      "no": 24,
+      "materi": "Sistem Persamaan Linear Tiga Variabel (SPLTV)",
+      "elemen": "Elemen Aljabar dan Fungsi",
+      "cp": "Pada akhir Fase E, peserta didik dapat menyelesaikan masalah yang berkaitan dengan sistem persamaan linear tiga variabel, persamaan dan fungsi kuadrat (termasuk akar imajiner), dan persamaan eksponensial (berbasis sama).",
+      "tp": "Peserta didik mampu menjelaskan konsep SPLTV, menentukan penyelesaiannya dengan berbagai metode, dan menerapkannya dalam masalah kontekstual.",
+      "indikator": "Disajikan SPLTV dalam bentuk simbolik, peserta didik dapat menentukan nilai x, y, dan z.",
+      "level": "C3 (Menerapkan)",
+      "bentuk": "Pilihan Ganda",
+      "stem": "Diketahui sistem persamaan",
+      "blokPersamaan": "\\cases{3x+y-2z=-22;2x-y+3z=18;4x+2y-5z=-46}",
+      "stem2": "Nilai $x$, $y$, dan $z$ berturut-turut adalah ....",
+      "opsi": [
+        "$2$, $-4$, dan $6$",
+        "$2$, $-4$, dan $-6$",
+        "$-2$, $4$, dan $-6$",
+        "$-2$, $-4$, dan $6$",
+        "$-2$, $-4$, dan $-6$"
+      ],
+      "kunci": "D"
+    },
+    {
+      "no": 25,
+      "materi": "Sistem Persamaan Linear Tiga Variabel (SPLTV)",
+      "elemen": "Elemen Aljabar dan Fungsi",
+      "cp": "Pada akhir Fase E, peserta didik dapat menyelesaikan masalah yang berkaitan dengan sistem persamaan linear tiga variabel, persamaan dan fungsi kuadrat (termasuk akar imajiner), dan persamaan eksponensial (berbasis sama).",
+      "tp": "Peserta didik mampu menjelaskan konsep SPLTV, menentukan penyelesaiannya dengan berbagai metode, dan menerapkannya dalam masalah kontekstual.",
+      "indikator": "Disajikan gambar tiga paket cupcake beserta harganya, peserta didik dapat menyusun model SPLTV dan menentukan total harga pembelian.",
+      "level": "C4 (Menganalisis)",
+      "bentuk": "Pilihan Ganda",
+      "stem": "Sebuah toko menawarkan tiga jenis paket kue cupcake. Setiap paket kue terdiri atas tiga rasa cupcake, yaitu cokelat, vanila, dan stroberi.",
+      "gambar": "cupcake",
+      "stem2": "Total harga yang harus dibayar seorang pembeli jika ingin membeli paket A namun ingin menambah 1 cupcake vanila dan 2 cupcake stroberi dengan harga satuan adalah ....",
+      "opsi": [
+        "Rp114.000,00",
+        "Rp128.000,00",
+        "Rp118.000,00",
+        "Rp138.000,00",
+        "Rp108.000,00"
+      ],
+      "kunci": "A"
+    }
+  ]
+}
